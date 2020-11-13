@@ -58,3 +58,6 @@ gem 'devise', '~> 4.7.3'
 
 #bootstrap sass gem -- for styling
 gem 'bootstrap-sass', '~> 3.4', '>= 3.4.1'
+
+#voting functionality
+gem 'acts_as_votable', '~> 0.12.1'
