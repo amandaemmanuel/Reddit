@@ -1,24 +1,15 @@
-# README
+This is a  Reddit Clone app. 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Functionality includes:
+* User sign-in/up
+* Submit a link
+* Upvote/downvote
+* Commenting
 
-Things you may want to cover:
+Used a few gems for this functionality including
+* Devise -> user accounts
+* Bootstrap -> enhanced UI
+* acts_as_votable -> up/down voting
+* simpleform -> commenting
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+It was a challenge, but fun!
